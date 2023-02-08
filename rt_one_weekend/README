@@ -1,0 +1,4 @@
+To compile, simply use
+```
+    CXX test.cpp -o {FILE_NAME} -Wall -O3 -fopenmp
+```
